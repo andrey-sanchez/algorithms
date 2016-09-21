@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GraphSearch/GraphSearch.iml" filepath="$PROJECT_DIR$/GraphSearch/GraphSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/SelectionAlgorithms/SelectionAlgorithms.iml" filepath="$PROJECT_DIR$/SelectionAlgorithms/SelectionAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShortestPath/ShortestPath.iml" filepath="$PROJECT_DIR$/ShortestPath/ShortestPath.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" filepath="$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/algorithms.iml" filepath="$PROJECT_DIR$/.idea/algorithms.iml" />
     </modules>

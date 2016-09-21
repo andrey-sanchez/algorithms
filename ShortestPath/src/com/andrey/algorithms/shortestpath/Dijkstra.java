@@ -1,4 +1,4 @@
-package com.andrey.algorithms.graphsearch;
+package com.andrey.algorithms.shortestpath;
 
 import java.util.HashMap;
 import java.util.Map;

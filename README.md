@@ -12,5 +12,6 @@
   6. Selection Sort
   7. Shell Sort
 
-### Graph Search Algorithms
+### Shortest Path Algorithms
   1. Dijkstra
+  2. Floyd–Warshall
